@@ -1,0 +1,1 @@
+INSERT INTO burgers (name, eaten) VALUES ('Double CheeseBurger', false);
