@@ -1,0 +1,38 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #ffffff;
+  color: black;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+body {
+  background-color: black;
+  color: lightgray;
+}
+.centcol {
+  text-align: center;
+  margin-top: 40px;
+}
+.leftcol {
+  text-align: center;
+}
+.rightcol {
+  text-align: center;
+}
+.maintitle {
+  text-align: center;
+  padding-top: 10px;
+}
